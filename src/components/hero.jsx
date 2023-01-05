@@ -36,7 +36,7 @@ class Hero extends Component {
         <span><p>ADEDARA</p></span>
         </div>
         <div className="detail">
-        <p>Lorem ipsum dolor sit amet consectetur. Malesuada diam commodo etiam quis accumsan justo. Vestibulum accumsan vitae felis mauris augue. Nec pellentesque et eget et interdum. </p>
+        <p>I am a software developer with a strong track record of delivering high-quality, scalable applications. From my experience working on a variety of projects, I have developed a wide range of technical skills and a commitment to solving complex problems. </p>
         </div>
       </div>
     );

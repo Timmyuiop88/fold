@@ -14,6 +14,7 @@ import './components/fonts/Neue-montreal-free-demo_pangram-pangram_030418/NeueMo
 import './components/fonts/non-natural-grotesk-font-1669943045-0/non-natural-grotesk-trialversion-regular.otf'
 
 function App() {
+  
   useEffect(() => {
     AOS.init();
   }, [])
