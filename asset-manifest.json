@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/fold/static/css/main.34dfa74b.css",
+    "main.js": "/github.io/fold/static/js/main.e8429380.js",
+    "static/js/787.99d33f1a.chunk.js": "/github.io/fold/static/js/787.99d33f1a.chunk.js",
+    "static/media/project.png": "/github.io/fold/static/media/project.9451f0e7e7ee6c6fb72a.png",
+    "static/media/person.png": "/github.io/fold/static/media/person.d22fd0de21062832dede.png",
+    "static/media/NeueMontreal-Regular.otf": "/github.io/fold/static/media/NeueMontreal-Regular.140bfb4a71fe08805d92.otf",
+    "static/media/Mouse.png": "/github.io/fold/static/media/Mouse.c2e1a02df193729e4523.png",
+    "static/media/grid.png": "/github.io/fold/static/media/grid.87195b630ac86b7d7f50.png",
+    "static/media/non-natural-grotesk-trialversion-regular.otf": "/github.io/fold/static/media/non-natural-grotesk-trialversion-regular.5141823c6becde2dbc48.otf",
+    "static/media/non-natural-grotesk-trialversion-bold.otf": "/github.io/fold/static/media/non-natural-grotesk-trialversion-bold.63679ab46d1fe1682220.otf",
+    "index.html": "/github.io/fold/index.html",
+    "main.34dfa74b.css.map": "/github.io/fold/static/css/main.34dfa74b.css.map",
+    "main.e8429380.js.map": "/github.io/fold/static/js/main.e8429380.js.map",
+    "787.99d33f1a.chunk.js.map": "/github.io/fold/static/js/787.99d33f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34dfa74b.css",
+    "static/js/main.e8429380.js"
+  ]
+}
