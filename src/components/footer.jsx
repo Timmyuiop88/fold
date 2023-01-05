@@ -19,7 +19,7 @@ function Footer(){
                     </a>
                
                 </div>
-                <div>
+                <div className="g">
                     <a href="https://www.linkedin.com/in/timmyuiop88/">
                     <FaLinkedin/>
                     </a>
