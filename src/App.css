@@ -141,7 +141,15 @@ color: #99A2AF;
 .mouse img{
   height: 150px;
   width: 150px;
-  
+  animation: rotation 10s infinite linear;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 .project_title{
   margin-top: 50px;
