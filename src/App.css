@@ -171,9 +171,10 @@ margin-bottom: 50px;
   font-size: 20px;
   line-height: 100%;
   color: #99A2AF;
+
 }
 .single{
-  height: 400px;
+  height: auto;
   width: 350px;
   border: 1px solid #99A2AF;
   margin-top: 20px;
@@ -186,34 +187,40 @@ padding-top: 10px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+
   
 
 }
 .programming{
-height: 40px;
 width: auto;
+height: auto;
 
-margin: auto;
+
 
 }
 .programming ul{
 list-style: none;
 display: flex;
-justify-content: space-around;
+justify-content:space-around;
 align-items: center;
-margin: auto;
+
+
+
 
 }
 .programming li{
-  border-radius: 15px;
+  width: auto;
+  border-radius: 20px;
   background-color: #ECEFF2;
 font-family: 'Neue Montreal';
 font-style: normal;
 font-weight: 500;
 font-size: 15px;
 line-height: 100%;
-padding: 10px;
+padding:  5.345px 8px;
 color:#99A2AF;
+display: flex;
+
 }
 
 .proj_image{
@@ -590,7 +597,7 @@ color: #99A2AF;
 @media screen and (min-width: 700px) {
   .single{
    width: 380px;
-   height: 420px;
+   height: auto;
    margin-left: 50px;
    margin-right: 50px;
   }

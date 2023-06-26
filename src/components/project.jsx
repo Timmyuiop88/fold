@@ -22,10 +22,10 @@ return(
 
             </div>
             <div className="project_container">
-        <Singles tools={['JS', 'REACT.JS', 'NEXT.JS', 'CSS', 'CHAKRA UI']} Name='Givaa' Image={givaa} link='https://eloquent-raindrop-2399c2.netlify.app/' num="01"/>
-        <Singles tools={['PHP', 'JS', 'MySQL', 'Bootstrap', 'CSS']} Name='Student real estates' Image={real} link='https://studentrealestates.com' num="02"/>
-        <Singles tools={['PHP', 'js']}Image={project}num="03" />
-        <Singles tools={['PHP', 'js']} Image={project} num="04"/>
+        <Singles tools={['REACT', 'NECT.JS','CSS', 'CHAKRA UI']} Name='Givaa' Image={givaa} link='https://eloquent-raindrop-2399c2.netlify.app/' num="01"/>
+        <Singles tools={['PHP', 'JS', 'MySQL', 'BOOTSTRAP',]} Name='Student real estates' Image={real} link='https://studentrealestates.com' num="02"/>
+        <Singles tools={['REACT', 'LARAVEL']}Image={project}num="03" />
+        <Singles tools={['TAILWIND ', 'NODE.JS', 'EXPRESS.JS']} Image={project} num="04"/>
             </div>
         </div>
     </div>
