@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "http://timmyuiop88/github.io/timilehin",
+=======
+  "homepage": "https://Timmyuiop88/github.io/timilehin",
+>>>>>>> f95ed27 (fixed deployment issues)
   "name": "fold",
   "version": "0.1.0",
   "private": false,
