@@ -1,33 +1,46 @@
 import React from "react";
-import project from './images/project.png'
+
 import east from './images/east.png'
-function Singles (){
+
+
+function Singles (props){
+
+const link = props.link
   return(
      <div data-aos="fade-up" className="single">
         <div className="programming">
           <ul>
-            <li>PHP</li>
-            <li>REACT NATIVE</li>
-            <li>CSS</li>
+       {props.tools.map((value) => {return(
+        <li>{value} </li>
+        
+       )}
+       
+       
+       )}
+          
           </ul>
         </div>
         <div className="proj_image">
-<img src={project} alt="not found"/>
+<img src={props.Image} alt="not found"/>
 
         </div>
         <div className="proj_name">
           <div className="name1">
             <div className="worr">
-              01<span className="dot">.</span>
+              {props.num}<span className="dot">.</span>
             </div>
             <p>
-            PROJECT Name
+            {props.Name}
             </p>
+            <br/>
+           
           </div>
-          <div className="name2">
+         
+          <a href={link} className="name2">
             <img src={east} alt="not found"/>
-          </div>
+          </a>
         </div>
+        
     </div>
   )
 }
