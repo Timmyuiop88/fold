@@ -36,7 +36,8 @@ class Hero extends Component {
         <span><p>ADEDARA</p></span>
         </div>
         <div className="detail">
-        <p>Lorem ipsum dolor sit amet consectetur. Malesuada diam commodo etiam quis accumsan justo. Vestibulum accumsan vitae felis mauris augue. Nec pellentesque et eget et interdum. </p>
+        <p> Self-directed and motivated Web Developer who works effectively in a dynamic environment. Fluent Front-end and back-end development, with expertise in all aspects of the websites and web application development life cycle, including requirements analysis, design, development and production support.
+Skilled at developing complex solutions possessing strong creative thinking skills, high energy and integrity, precisely executes development projects from concept to delivery. </p>
         </div>
       </div>
     );
